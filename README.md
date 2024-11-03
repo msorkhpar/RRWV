@@ -1,2 +1,2 @@
-# RRWV
-Random walk with restarts visualizer
+# Random Walk Visualization
+
